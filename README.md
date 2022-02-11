@@ -108,7 +108,7 @@ Start your server and run the script included in the project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/KerimMbegovic/News-App.git
+   git clone https://github.com/KerimMbegovic/News.git
    ```
 2. Install NPM packages in client folder
    ```sh
